@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{85790732-7019-4034-A06C-6E603FD97A1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\Api\Api.csproj", "{85790732-7019-4034-A06C-6E603FD97A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{99BA39BF-9A36-475B-91AE-ACE3A0CDA1DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{99BA39BF-9A36-475B-91AE-ACE3A0CDA1DF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD6F3773-8671-4B92-8B99-AFB2A8AB5E4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{DF62E8F4-D80A-4570-BF0E-D3D88E27A250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{DF62E8F4-D80A-4570-BF0E-D3D88E27A250}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
