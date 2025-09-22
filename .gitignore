@@ -1,0 +1,18 @@
+# Rider/Jetbrains
+.idea/
+*.sln.iml
+
+# VS/VSCode
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
